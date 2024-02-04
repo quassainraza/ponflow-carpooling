@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064595678831",
+    "project_id": "ponflow-2b75d",
+    "storage_bucket": "ponflow-2b75d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064595678831:android:5259cea7cc4ae3723a0f9a",
+        "android_client_info": {
+          "package_name": "com.example.ponflow_carpoolingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064595678831-g8jtbdd12h4gvmrp43r2fu4ivjjt5te0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcxRmeCZ6jqERLSQnOXMKVIToJRG2wGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064595678831-g8jtbdd12h4gvmrp43r2fu4ivjjt5te0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
